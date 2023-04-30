@@ -6,7 +6,7 @@ Le fichier Json qui contient tous les flus RSS est : liens.json
   on peut ajouter d'autres liens dans ce fichier on respectant cette syntaxe : nom du flux : liens du flux RSS.
   
 
-## les modules a télécharger sont : feedparser et flask 
+## les modules à télécharger sont : feedparser et flask 
 
 ``` pip install feedparser ```
 
